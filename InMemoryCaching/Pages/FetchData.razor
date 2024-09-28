@@ -1,0 +1,28 @@
+﻿@page "/fetchdata"
+@inject SampleDataAccess data
+
+<PageTitle>Library</PageTitle>
+
+<h1>Books Directory</h1>
+
+@if(books is not null)
+    {
+        foreach(var b in books)
+        {
+            <h3> @b.BookName --> @b.Author </h3>
+        }
+    }
+    else
+    {
+        <h3> Loading... </h3>
+    }
+
+@code {
+    List<LibraryModel> books;
+
+    protected override async Task OnInitializedAsync()
+    {
+        books = await data.GetBooksCache();
+    }
+} 
+

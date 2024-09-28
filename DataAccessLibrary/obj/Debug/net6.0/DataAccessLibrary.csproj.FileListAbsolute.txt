@@ -1,0 +1,12 @@
+/Users/prajaktakhatri/Repos/Caching/Caching/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.deps.json
+/Users/prajaktakhatri/Repos/Caching/Caching/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.dll
+/Users/prajaktakhatri/Repos/Caching/Caching/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.pdb
+/Users/prajaktakhatri/Repos/Caching/Caching/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.csproj.AssemblyReference.cache
+/Users/prajaktakhatri/Repos/Caching/Caching/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prajaktakhatri/Repos/Caching/Caching/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.AssemblyInfoInputs.cache
+/Users/prajaktakhatri/Repos/Caching/Caching/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.AssemblyInfo.cs
+/Users/prajaktakhatri/Repos/Caching/Caching/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.csproj.CoreCompileInputs.cache
+/Users/prajaktakhatri/Repos/Caching/Caching/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.dll
+/Users/prajaktakhatri/Repos/Caching/Caching/DataAccessLibrary/obj/Debug/net6.0/refint/DataAccessLibrary.dll
+/Users/prajaktakhatri/Repos/Caching/Caching/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.pdb
+/Users/prajaktakhatri/Repos/Caching/Caching/DataAccessLibrary/obj/Debug/net6.0/ref/DataAccessLibrary.dll

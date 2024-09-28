@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "W/c+4YPp7XnQbq/iDvNd4JxbUgZOzs5bcgizPqXpbgN0TE0KoCXAz7DMMtpFINjKTzLFjz/0P/iJfOEJORu2vQ==",
+  "success": true,
+  "projectFilePath": "/Users/prajaktakhatri/Repos/Caching/InMemoryCaching/InMemoryCaching.csproj",
+  "expectedPackageFiles": [
+    "/Users/prajaktakhatri/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/prajaktakhatri/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "/Users/prajaktakhatri/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/prajaktakhatri/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/prajaktakhatri/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/prajaktakhatri/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/prajaktakhatri/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
