@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uydfi5PPbEdqy5yua67BP9NDGB0Sd7cU4xB6DLsK/xZgiCcXEthOZ/RjJjjrN9GNRho9UUwkwwzUScWNaql4mg==",
+  "success": true,
+  "projectFilePath": "/Users/prajaktakhatri/Repos/Caching/Redis/Redis.csproj",
+  "expectedPackageFiles": [
+    "/Users/prajaktakhatri/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/prajaktakhatri/.nuget/packages/microsoft.extensions.caching.stackexchangeredis/8.0.8/microsoft.extensions.caching.stackexchangeredis.8.0.8.nupkg.sha512",
+    "/Users/prajaktakhatri/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "/Users/prajaktakhatri/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.1/microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "/Users/prajaktakhatri/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "/Users/prajaktakhatri/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/prajaktakhatri/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "/Users/prajaktakhatri/.nuget/packages/stackexchange.redis/2.8.16/stackexchange.redis.2.8.16.nupkg.sha512",
+    "/Users/prajaktakhatri/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512",
+    "/Users/prajaktakhatri/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

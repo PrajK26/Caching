@@ -1,0 +1,5 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{55FF3895-8DFA-4184-B3F6-92AE0B9C6E10}|Default">
+  <MonoDevelop.Ide.ItemProperties.InMemoryCaching PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Redis PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+</Properties>
